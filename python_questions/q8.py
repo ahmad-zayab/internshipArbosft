@@ -24,17 +24,7 @@ def longest_unique_substring(s: str):
                 count=0
     return index,maxcount
                 
-
-
-
-
-
-
-       
-
-    
-
-
+                
 s=input("Enter Strring \n")        
 index,maxcount=longest_unique_substring(s)
 print("longest substring ",index,maxcount)
