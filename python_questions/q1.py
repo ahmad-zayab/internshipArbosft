@@ -7,7 +7,7 @@ for i in range(len(s)):
     if s==s[::-1]:
         n1=len(s)
         s1=s
-
+# astdfkhdfd 
         break
        
     s=s[1:]
