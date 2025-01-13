@@ -1,5 +1,7 @@
 s= input("Enter string \n")
-
+longest = ""
+n1 = n2 = 0
+s1 = s2 = ""
 for i in range(len(s)): 
    
     if s==s[::-1]:
